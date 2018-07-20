@@ -1,0 +1,21 @@
+{
+    "name": "theme-gmacs-blue",
+    "version": "0.0.1",
+    "description": "gmacs-blue theme for oni",
+    "engines": {
+        "oni": "0.3.6"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "name": "gmacs-blue",
+                "path": "colors/gmacs-blue.json"
+            }
+        ]
+    },
+    "author": "GeordieP <gp@gpow.ca>",
+    "license": "MIT"
+}
